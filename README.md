@@ -10,7 +10,7 @@
 + Also like drawing. [pixiv profile](https://www.pixiv.net/en/users/75899055)
 
 ## Projects
-+ [blog](https://github.com/SaraFarron/Blog) - website build with django, project of my friend [SaraFarron](https://github.com/SaraFarron). I made frontend part (my first experience);
++ [blog](https://github.com/SaraFarron/Blog) - website built with django, project of my friend [SaraFarron](https://github.com/SaraFarron). I decided to join project to help with frontend part of website (my first experience). Ended up building nice-looking blog. Also participated in some backend parts;
 + [Swipe?](https://github.com/YaredFall/swipe_game) - simple mobile game made with Unity, my original project;
 + *source code lost* chatbot for twitch.tv, build with python
 + Many projects builded during my education in university, mostly solving some mathematical problems
