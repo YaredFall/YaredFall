@@ -11,7 +11,8 @@
 + Also like to draw. <!--[pixiv profile](https://www.pixiv.net/en/users/75899055)-->
 
 ## Projects
-+ [blog](https://github.com/SaraFarron/Blog) - website built with django, project of my friend [SaraFarron](https://github.com/SaraFarron). I decided to join project to help with frontend part of website (my first experience). Ended up building nice-looking blog. Also participated in some backend parts;
++ [blog](https://github.com/SaraFarron/Blog) - website built with django, project of my friend [SaraFarron](https://github.com/SaraFarron). I decided to join project to help with frontend part of website (my first experience). Ended up building nice-looking site. Also participated in some backend parts;
++ [react-todo-app](https://github.com/YaredFall/react-todo-app) - simple todo app build with React. My first React experienece.
 + [Swipe?](https://github.com/YaredFall/swipe_game) - simple mobile game made with Unity, my original project;
 + *source code lost* chatbot for twitch.tv, build with python
 + Many projects builded during my education in university, mostly solving some mathematical problems
