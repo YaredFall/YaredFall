@@ -19,4 +19,4 @@
 + [Hangman](https://github.com/YaredFall/hangman) - Simple game built with React and Typescript. Second TypeScript project (with help of a tutorial).
 + [Swipe?](https://github.com/YaredFall/swipe_game) - simple mobile game made in Unity, my original project.
 + *source code lost* chatbot for twitch.tv, built with python.
-+ Many projects built during my education in university, mostly solving some mathematical problems.
++ Many projects built during my education at university, mostly solving some mathematical problems.
