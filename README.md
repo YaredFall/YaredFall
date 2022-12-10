@@ -5,11 +5,11 @@
 + html - basic
 + js - basic/learning
 + react.js - basic/learning
-+ c# (winforms, unity) - decent.
++ c# (winforms, unity) - decent
 + opengl (OpenTK/SharpGL) - very basic
 + python - very basic
 
-+ Also like to draw. <!--[pixiv profile](https://www.pixiv.net/en/users/75899055)-->
++ Also like to draw from time to time <!--[pixiv profile](https://www.pixiv.net/en/users/75899055)-->
 
 ## Projects
 + [blog](https://github.com/SaraFarron/Blog) - website built with django, project of my friend [SaraFarron](https://github.com/SaraFarron). I decided to join project to help with frontend part of website (my first experience). Ended up building nice-looking site. Also participated in some backend parts.
