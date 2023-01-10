@@ -1,18 +1,22 @@
 # Amateur programmer, self-learning artist
 
-## Fields of knowledge *{field - level}
-+ css/scss - decent
-+ html - basic
-+ js - basic/learning
-+ react.js - basic/learning
-+ c# (winforms, unity) - decent
-+ opengl (OpenTK/SharpGL) - very basic
-+ python - very basic
+## Fields of knowledge (from most comfortable to least comfortable)
+| Field |        Level       |  Time Period  | Notes |
+|-----|:------------------:|:-------------:|-------|
+|  css  | decent (learning)  | 2022 - today  | Comfortable with Vanilla / Tailwind / SCSS |
+|  react.js  | basic (learning)  | 2022 - today | Also worked with React Router, React Transition Group |
+|  js  | basic (learning)  | 2022 - today  | Transiting to TypeSript |
+|  html  | basic (learning)  | 2016, 2022 - today  |  |
+|  c#  | decent  | 2020 - 2021  | Dozens of console programs, several WinForm programs, couple of Unity Apps |
+|  python  | very basic  | 2017, 2022  | Studied the basics at school days, tackled while was working on Django-based project |
+|  pascal  | almost forgotten | 2015 - 2020 | Studied at school and university |
+|  opengl  | very basic  | 2021 | Studied at university (OpenTK). Also worked with SharpGL |
 
-+ Also like to draw from time to time <!--[pixiv profile](https://www.pixiv.net/en/users/75899055)-->
+ Also like to draw from time to time <!--[pixiv profile](https://www.pixiv.net/en/users/75899055)-->
 
 ## Projects
 + [blog](https://github.com/SaraFarron/Blog) - website built with django, project of my friend [SaraFarron](https://github.com/SaraFarron). I decided to join project to help with frontend part of the website (my first experience). Ended up building nice-looking site. Also participated in some backend parts.
++ [Wordle](https://github.com/YaredFall/wordle) - Simple word-guessing game. Built with React, TypeScript, Tailwind
 + [react-todo-app](https://github.com/YaredFall/react-todo-app) - simple todo app built with React and Sass(scss). My first React project (with help of a tutorial).
 + [15puzzle](https://github.com/YaredFall/15puzzle) - Simple puzzle game built with React and TailwindCSS. Original project (except the puzzle idea).
 + [custom-select](https://github.com/YaredFall/typescript-custom-select) - Custom  &lt;Select element&gt; built with React and TypeScript. First TypeScript project (with help of a tutorial).
