@@ -1,19 +1,20 @@
-# Amateur programmer, self-learning artist
+# Self-learning programer
 
 ## Fields of knowledge (from most comfortable to least comfortable)
 | Field |        Level       |  Time Period  | Notes |
 |-----|:------------------:|:-------------:|-------|
+|  react.js  | decent (learning)  | 2022 - today | Also worked with React Query, React Router, React Transition Group, useHookForm, Zod, Zustand and some other packages |
 |  css  | decent (learning)  | 2022 - today  | Comfortable with Vanilla / Tailwind / SCSS |
-|  react.js  | decent (learning)  | 2022 - today | Also worked with React Query, React Router, React Transition Group, Zustand and some other packages |
-|  js  | basic (learning)  | 2022 - today  | TypeScript ~~hater~~ enjoyer |
-|  chrome manifest v3  | very basic |  2023 - today  | Researching some parts  |
+|  js  | decent (learning)  | 2022 - today  | TypeScript ~~hater~~ enjoyer |
 |  html  | basic (learning)  | 2016, 2022 - today  | Learning accessibility |
+|  NextJS | very basic | 2023 - today | Embracing SSR |
+|  chrome manifest v3  | very basic |  2023 - today  | Researching some parts  |
 |  c#  |  used to be decent  | 2020 - 2021  | Dozens of console programs, several WinForm programs, couple of Unity Apps |
-|  python  | very basic  | 2017, 2022  | Studied the basics at school days, tackled while was working on Django-based project |
-|  pascal  | almost forgotten | 2015 - 2020 | Studied at school and university |
-|  opengl  | used to be very basic  | 2021 | Studied at university (OpenTK). Also worked with SharpGL |
+# |  python  | very basic  | 2017, 2022  | Studied the basics at school days, tackled while was working on Django-based project |
+# |  pascal  | almost forgotten | 2015 - 2020 | Studied at school and university |
+# |  opengl  | used to be very basic  | 2021 | Studied at university (OpenTK). Also worked with SharpGL |
 
- Also like to draw from time to time :artist:
+# Also like to draw from time to time :artist:
 
 ## Projects
 + [shikijoy](https://github.com/YaredFall/ShikiJoyExt) - Chrome extension, that replaces php+jquery site pages with my React app in purpose of complete overhaul and another site integration.
