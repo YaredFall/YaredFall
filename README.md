@@ -3,11 +3,11 @@
 ## Fields of knowledge (from most comfortable to least comfortable)
 | Field |        Level       |  Time Period  | Notes |
 |-----|:------------------:|:-------------:|-------|
-|  react.js  | decent (learning)  | 2022 - today | Also worked with React Query, React Router, React Transition Group, useHookForm, Zod, Zustand and some other packages |
-|  css  | decent (learning)  | 2022 - today  | Comfortable with Vanilla / Tailwind / SCSS |
-|  js  | decent (learning)  | 2022 - today  | TypeScript ~~hater~~ enjoyer |
+|  react.js  | decent  | 2022 - today | Also worked with React Query, React Router, React Transition Group, useHookForm, Zod, Zustand and some other packages |
+|  css  | decent  | 2022 - today  | Comfortable with Vanilla / Tailwind / SCSS |
+|  js  | decent  | 2022 - today  | TypeScript ~~hater~~ enjoyer |
 |  html  | basic (learning)  | 2016, 2022 - today  | Learning accessibility |
-|  NextJS | very basic | 2023 - today | Embracing SSR |
+|  NextJS | basic | 2023 - today | Embracing SSR |
 |  chrome manifest v3  | very basic |  2023 - today  | Researching some parts  |
 |  c#  |  used to be decent  | 2020 - 2021  | Dozens of console programs, several WinForm programs, couple of Unity Apps |
 <!-- |  python  | very basic  | 2017, 2022  | Studied the basics at school days, tackled while was working on Django-based project |
